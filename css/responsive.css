@@ -1,0 +1,765 @@
+@media(max-width:575px){
+    .menu_main i{
+        color: #ffff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-light .navbar-toggler {
+        border: 2px solid #fff;
+    }
+    .menu_main ul li a{
+            font-size: 14px;
+            padding: 5px 0px !important;
+            text-align: center;
+    }
+    .navbar-brand {
+      left: 70%;
+    }
+    .menu_main img{
+        width: 70%;
+    }
+    .language {
+    padding: 2px 5px;
+    text-align: center;
+    width: 140px;
+    margin: 0 auto;
+    }
+    #banner .slide_content .banner_title {
+        font-size: 30px;
+        padding-top: 200px;
+
+    }
+    #banner .slide_content .banner_subtitle {
+        font-size: 40px;
+    }
+    #banner .slide_content .banner_description {
+        font-size: 14px;
+        font-weight: 400;
+        letter-spacing: 2px;
+        line-height: 30px;
+    }
+    #banner .slick-dots{
+        display: none;
+    }
+    #donate .donate_slide {
+        margin-top: 20px;
+    }
+    .sliker_celebration{
+        display: none;
+    }
+    .registration_item{
+        margin-top: 20px;
+    }
+    .footer_logo{
+        text-align: center;
+    }
+    .footer_logo img{
+        width: 20%;
+    }
+    .footer_item{
+        text-align: center;
+    }
+    .footer_item span::after{
+        left:-37px;
+    }
+    .footer_header{
+    font-size: 20px;
+    }
+    .footer_item p{
+    font-size: 15px;
+    }
+    /* index page end */
+        /* about page start */
+        #about_banner {
+            min-height: 503px;
+        }
+    
+        .about_banner_text {
+            margin-top: 135px;
+        }
+    
+        .about_banner_text h1 {
+            font-size: 35px;
+        }
+    
+        #about_music {
+            padding: 26px 0px 14px 0px;
+        }
+    
+        #about_creator {
+            padding: 25px 0px 40px 0px;
+        }
+    
+        .about_creator_header h2 {
+            font-size: 38px;
+        }
+    
+        #about_mission_vision {
+            padding: 15px 0px;
+        }
+    
+        .about_mis_vis_content {
+            margin-top: 30px;
+        }
+    
+        .team_header h2 {
+            font-size: 35px;
+        }
+    
+        /* about page end */
+        /* donation page start */
+        .donation-btn {
+          margin-left: 200px;
+        }
+
+        .donation-btn-2 {
+          margin: 20px 0;
+          margin-left: 185px;
+        }
+
+        .donation-donate {
+          margin-top: 20px;
+          margin-left: 165px;
+        }
+
+        .sponsor-btn {
+          margin-left: 155px;
+        }
+        /* donation page end */
+        /* team page start */
+        .team-item-1 {
+          padding: 50px 0 0 0;
+        }
+
+        .team-item-2 {
+          padding: 50px 0 0 0;
+        }
+
+        .overlay ul li a {
+          height: 37px;
+          width: 37px;
+          line-height: 37px;
+        }
+
+        .team-item-3 {
+          padding: 50px 0 0 0;
+        }
+
+        .team-item-4 {
+          padding: 50px 0 0 0;
+        }
+
+        .team-text p {
+          font-size: 12px;
+        }
+        /* team page end */
+        /* activates page start*/
+        .activ_ban_tx h1 {
+            font-size: 30px;
+        }
+    
+        .active_banner_btn a {
+            width: 200.56px;
+            height: 50px;
+            line-height: 50px;
+            font-size: 18px;
+        }
+    
+        #active_donations {
+            padding: 8px 0px;
+        }
+    
+        .donations_hover_content h4 {
+            font-size: 28px;
+        }
+    
+        #active_unpaid {
+            padding: 30px 0px;
+        }
+    
+        .active_support_content h2 {
+            font-size: 26px;
+            line-height: 25px;
+        }
+    
+        #active_popular_causes {
+            padding: 35px 0px;
+        }
+    
+        .popular_causes_header h4 {
+            font-size: 20px;
+            line-height: 10px;
+        }
+    
+        .popular_causes_header h2 {
+            font-size: 31px;
+            line-height: 52px;
+        }
+    
+        /* activates page end*/
+        /* member page start*/
+        .member-text li {
+          font-size: 10px;
+          padding-left: 20px;
+          line-height: 20px;
+        }
+
+        .member-text h3 {
+          margin-bottom: 10px;
+        }
+        /* member page end*/
+}
+@media(min-width:576px) and (max-width:767px){
+    .menu_main i {
+        color: #ffff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-light .navbar-toggler {
+        border: 2px solid #fff;
+    }
+    .menu_main ul li a {
+        padding: 5px 0px !important;
+        text-align: center;
+    }
+    .menu_main img {
+        width: 90%;
+    }
+    .navbar-brand {
+      left: 70%;
+    }
+    .language {
+    padding: 2px 5px;
+    text-align: center;
+    width: 140px;
+    margin: 0 auto;
+    }
+    #banner .slide_content .banner_title {
+        font-size: 33px;
+        padding-top: 200px;
+
+    }
+    #banner .slide_content .banner_subtitle {
+        font-size: 43px;
+    }
+    #banner .slide_content .banner_description {
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 2px;
+        line-height: 30px;
+    }
+    #donate .donate_slide {
+        margin-top: 20px;
+    }
+    .sliker_celebration {
+        display: none;
+    }
+    .registration_item {
+        margin-top: 20px;
+    }
+    .footer_logo img{
+        width: 60%;
+        margin-top: 50px;
+    }
+    .footer_header{
+    font-size: 15px;
+    }
+    .footer_item p{
+    font-size: 13px;
+    }
+    .footer_icon .social_icon ul li {
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    }
+
+    /* index page end */
+
+
+    /* about page start */
+  #about_banner {
+    min-height: 503px;
+  }
+  .about_banner_text {
+    margin-top: 135px;
+  }
+  .about_banner_text h1 {
+    font-size: 35px;
+  }
+  #about_music {
+    padding: 26px 0px 14px 0px;
+  }
+  #about_creator {
+    padding: 25px 0px 40px 0px;
+  }
+  .about_creator_header h2 {
+    font-size: 38px;
+  }
+  #about_mission_vision {
+    padding: 15px 0px;
+  }
+  .about_mis_vis_content {
+    margin-top: 30px;
+  }
+  .team_header h2 {
+    font-size: 35px;
+  }
+  /* about page end */
+  /* donation page start */
+  .donation-btn {
+    margin-left: 200px;
+  }
+
+  .donation-btn-2 {
+    margin: 20px 0;
+    margin-left: 185px;
+  }
+
+  .donation-donate {
+    margin-top: 20px;
+    margin-left: 165px;
+  }
+
+  .sponsor-btn {
+    margin-left: 140px;
+  }
+  /* donation page end */
+  /* team page start */
+  .team-item-1 {
+    padding: 50px 0 0 0;
+  }
+
+  .team-item-2 {
+    padding: 50px 0 0 0;
+  }
+
+  .team-item-3 {
+    padding: 50px 0 0 0;
+  }
+
+  .team-item-4 {
+    padding: 50px 0 0 0;
+  }
+
+  .team-text p {
+    font-size: 14px;
+  }
+  /* team page end */
+  /* activates page start*/
+  .activ_ban_tx h1 {
+    font-size: 30px;
+  }
+  .active_banner_btn a {
+    width: 200.56px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+  }
+  #active_donations {
+    padding: 8px 0px;
+  }
+  .donations_hover_content h4 {
+    font-size: 28px;
+  }
+  #active_unpaid {
+    padding: 30px 0px;
+  }
+  .active_support_content h2 {
+    font-size: 26px;
+    line-height: 25px;
+  }
+  #active_popular_causes {
+    padding: 35px 0px;
+  }
+  .popular_causes_header h4 {
+    font-size: 20px;
+    line-height: 10px;
+  }
+  .popular_causes_header h2 {
+    font-size: 31px;
+    line-height: 52px;
+  }
+  /* activates page end*/
+  /* member page start*/
+  .member-text li {
+    font-size: 10px;
+    line-height: 20px;
+    margin-left: 20px;
+  }
+
+  .member-text h3 {
+    margin-bottom: 10px;
+  }
+  /* member page end*/ 
+
+  /* gallery page start */
+    .tap_btn {
+      margin: 20px 0 0 0;
+    }
+  
+    .one {
+      padding: 15px 15px;
+      margin: 0px 5px;
+      font-size: 11px;
+    }
+  /* gallery page end */
+}
+@media(min-width:767px) and (max-width:991px){
+    .menu_main i {
+        color: #ffff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-light .navbar-toggler {
+        border: 2px solid #fff;
+    }
+    .menu_main ul li a {
+        padding: 5px 0px !important;
+        text-align: center;
+    }
+    .navbar-brand {
+      left: 70%;
+    }
+    .language {
+    padding: 2px 5px;
+    text-align: center;
+    width: 140px;
+    margin: 0 auto;
+    }
+    #banner .slide_content .banner_title {
+        font-size: 33px;
+        padding-top: 200px;
+    }
+    #banner .slide_content .banner_subtitle {
+        font-size: 43px;
+    }
+    #banner .slide_content .banner_description {
+        font-size: 16px;
+        font-weight: 400;
+        letter-spacing: 2px;
+        line-height: 30px;
+    }
+    #donate .donate_slide {
+        margin-top: 20px;
+    }
+    .sliker_celebration {
+        display: none;
+    }
+    .clebration_img .overlay{
+        padding: 50px;
+    }
+    .registration_item {
+        margin-top: 20px;
+    }
+    .footer_logo img{
+        width: 60%;
+        margin-top: 50px;
+    }
+    .footer_header{
+    font-size: 15px;
+    }
+    .footer_item p{
+    font-size: 13px;
+    }
+    .footer_icon .social_icon ul li {
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+    }
+
+    /* index page edn */
+
+    /* about page start */
+  #about_banner {
+    min-height: 495px;
+  }
+  #about_music {
+    padding: 34px 0px 17px 0px;
+  }
+  #about_creator {
+    padding: 26px 0px 35px 0px;
+  }
+  .about_creator_header h2 {
+    font-size: 40px;
+  }
+  #about_mission_vision {
+    padding: 25px 0px;
+  }
+  .about_mis_vis_content {
+    margin-top: 22px;
+  }
+  .about_mis_vis_content {
+    margin-top: 22px;
+  }
+  /* about page end */
+  /* donation page start */
+  .donation-btn {
+    margin-left: 300px;
+  }
+
+  .donation-btn-2 {
+    margin: 20px 0;
+    margin-left: 285px;
+  }
+
+  .donation-donate {
+    margin-top: 20px;
+    margin-left: 265px;
+  }
+
+  .sponsor-btn {
+    margin-left: 240px;
+  }
+  /* donation page end */
+  /* team page start */
+  .team-item-1 {
+    padding: 50px 0 0 0;
+  }
+
+  .team-item-2 {
+    padding: 50px 0 0 0;
+  }
+
+  .team-item-3 {
+    padding: 50px 0 0 0;
+  }
+
+  .team-item-4 {
+    padding: 50px 0 0 0;
+  }
+  /* team page end */
+  /* activates page start*/
+  #active_donations {
+    padding: 38px 0px;
+  }
+  #active_unpaid {
+    padding: 50px 0px;
+  }
+  #active_popular_causes {
+    padding: 28px 0px;
+  }
+  .popular_causes_hover h2::after {
+    left: -36px;
+  }
+  /* activates page end*/
+  /* member page start*/
+  .member-text li {
+    font-size: 13px;
+    line-height: 22px;
+    margin-left: 20px;
+  }
+  .member-text h3 {
+    margin-bottom: 10px;
+  }
+  /* member page end*/
+
+  /* gallery page start */
+    .tap_btn {
+      margin: 20px 0 0 0;
+    }
+  
+    .one {
+      padding: 20px 22px;
+      margin: 0px 5px;
+      font-size: 15px;
+    }
+  /* gallery page end */
+
+}
+@media(min-width:992px) and (max-width:1199px){
+    .menu_main ul li a {
+        font-size: 14px;
+        padding: 0px 7px !important;
+    }
+    #banner .slide_content .banner_title {
+        padding-top: 100px;
+    }
+    .language {
+        padding: 4px;
+        margin-top: -7px;
+        font-size: 13px;
+        text-align: center;
+    }
+    .sliker_celebration {
+        display: none;
+    }
+    .footer_header{
+    font-size: 25px;
+    }
+    .clebration_img .overlay .celebration_text {
+    padding: 16px 20px;
+    }
+    /* index page end */
+
+    /* about page start */
+  #about_banner {
+    min-height: 550px;
+  }
+  #about_music {
+    padding: 41px 0px 45px 0px;
+  }
+  #about_creator {
+    padding: 22px 0px 34px 0px;
+  }
+  .about_creator_header h2 {
+    font-size: 40px;
+  }
+  .about_mis_vis_content {
+    margin-top: 13px;
+  }
+  /* about page end */
+  /* donation page start */
+    .donation-btn-2 {
+      width: 100px
+    }
+  /* donation page end */
+  /* team page start */
+    .team-item-1 {
+      padding: 70px 0 0 0;
+    }
+  
+    .team-item-2 {
+      padding: 0px 0 0 0;
+    }
+  
+    .team-item-3 {
+      padding: 60px 0 0 0;
+    }
+  
+    .team-item-4 {
+      padding: 60px 0 0 0;
+    }
+  
+    .team-text p {
+      font-size: 11px;
+      line-height: 20px;
+    }
+  
+    .overlay ul li a {
+      height: 37px;
+      width: 37px;
+      line-height: 37px;
+    }
+  /* team page end */
+  /* activates page start*/
+  #active_donations {
+    padding: 29px 0px;
+  }
+  #active_popular_causes {
+    padding: 45px 0px;
+  }
+  .popular_causes_hover h2::after {
+    left: -26px;
+  }
+  /* activates page end*/
+  /* member page start*/
+  .member-text li {
+    font-size: 12px;
+    line-height: 25px;
+  }
+  /* member page end*/
+  /* gallery page start */
+    .tap_btn {
+      margin: 20px 0 0 0;
+    }
+  
+    .one {
+      padding: 15px 17px;
+      margin: 0px 4px;
+      font-size: 11px;
+    }
+  /* gallery page end */
+
+    
+}
+@media(min-width:1200px) and (max-width:1399px){
+    .menu_main ul li a {
+            font-size: 14px;
+    }
+    .sliker_celebration {
+        display: none;
+    }
+    .footer_header{
+    font-size: 25px;
+    }
+    /* index page end */
+
+      /* about page start */
+  #about_banner {
+    min-height: 540px;
+  }
+  #about_music {
+    padding: 38px 0px 47px 0px;
+  }
+  .about_creator_header h2 {
+    font-size: 38px;
+  }
+  .about_mis_vis_content {
+    margin-top: 25px;
+  }
+  .about_mis_vis_content {
+    margin-top: 25px;
+  }
+  /* about page end */
+  /* donation page start */
+    .donation-btn-2 {
+      width: 130px
+    }
+  /* donation page end */
+  /* team page start */
+    .team-item-1 {
+      padding: 70px 0 0 0;
+    }
+  
+    .team-item-2 {
+      padding: 10px 0 0 0;
+    }
+  
+    .team-item-3 {
+      padding: 70px 0 0 0;
+    }
+  
+    .team-item-4 {
+      padding: 60px 0 0 0;
+    }
+  
+    .team-text p {
+      font-size: 14px;
+      line-height: 25px;
+    }
+  /* team page end */
+  /* activates page start*/
+  .popular_causes_hover h2::after {
+    left: -30px;
+  }
+  /* activates page end*/
+  /* member page start*/
+  .member-text li {
+    font-size: 15px;
+  }
+  /* member page end*/
+
+  /* gallery page start */
+    .tap_btn {
+      margin: 20px 0 0 0;
+    }
+
+    .one {
+      padding: 20px 17px;
+      margin: 0px 4px;
+      font-size: 15px;
+    }
+  /* gallery page end */
+}
+@media(min-width:1400px) and (max-width:1800px){
+
+    /* about page start */
+  #about_banner {
+    min-height: 600px;
+  }
+  /* about page end */
+
+}
